@@ -1,0 +1,1280 @@
+{
+    "data": [
+        {
+            "id": 2098,
+            "common_name": "cilantro",
+            "scientific_name": [
+                "Coriandrum sativum"
+            ],
+            "other_name": [
+                "coriander",
+                "Chinese parsley"
+            ],
+            "family": "Apiaceae",
+            "origin": [
+                "Western Asia"
+            ],
+            "type": "Herb",
+            "dimension": "1.50 to 2.00 feet",
+            "dimensions": {
+                "type": null,
+                "min_value": 1.5,
+                "max_value": 2,
+                "unit": "feet"
+            },
+            "cycle": "Annual",
+            "attracts": [],
+            "propagation": [
+                "Seed Propagation"
+            ],
+            "hardiness": {
+                "min": "2",
+                "max": "11"
+            },
+            "hardiness_location": {
+                "full_url": "https://perenual.com/api/hardiness-map?species_id=2098&size=og&key=sk-7FOR65e3bfc4a0fb34435",
+                "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2098&size=og&key=sk-7FOR65e3bfc4a0fb34435'></iframe>"
+            },
+            "watering": "Average",
+            "depth_water_requirement": {
+                "unit": "inches",
+                "value": "2"
+            },
+            "volume_water_requirement": [],
+            "watering_period": null,
+            "watering_general_benchmark": {
+                "value": "2-3",
+                "unit": "days"
+            },
+            "plant_anatomy": [
+                {
+                    "part": "flowers",
+                    "color": [
+                        "white-pink"
+                    ]
+                },
+                {
+                    "part": "foliage",
+                    "color": [
+                        "green"
+                    ]
+                },
+                {
+                    "part": "stems",
+                    "color": [
+                        "light-green",
+                        "green"
+                    ]
+                },
+                {
+                    "part": "leaves",
+                    "color": [
+                        "green"
+                    ]
+                },
+                {
+                    "part": "fruits",
+                    "color": [
+                        "lime-green"
+                    ]
+                },
+                {
+                    "part": "petioles",
+                    "color": [
+                        "green"
+                    ]
+                }
+            ],
+            "sunlight": [
+                "Full sun",
+                "part shade"
+            ],
+            "pruning_month": [
+                "May"
+            ],
+            "pruning_count": [],
+            "seeds": 1,
+            "maintenance": "Low",
+            "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2098&key=sk-7FOR65e3bfc4a0fb34435",
+            "soil": [
+                "Well-drained"
+            ],
+            "growth_rate": "High",
+            "drought_tolerant": false,
+            "salt_tolerant": false,
+            "thorny": false,
+            "invasive": false,
+            "tropical": false,
+            "indoor": false,
+            "care_level": null,
+            "pest_susceptibility": [
+                "Pest resistant",
+                " Disease resistant"
+            ],
+            "pest_susceptibility_api": "Coming Soon",
+            "flowers": true,
+            "flowering_season": null,
+            "flower_color": "White to pink to pale lavender",
+            "cones": false,
+            "fruits": true,
+            "edible_fruit": false,
+            "edible_fruit_taste_profile": "Coming Soon",
+            "fruit_nutritional_value": "Coming Soon",
+            "fruit_color": [
+                "green",
+                "brown"
+            ],
+            "harvest_season": null,
+            "leaf": true,
+            "leaf_color": [
+                "green"
+            ],
+            "edible_leaf": true,
+            "cuisine": true,
+            "medicinal": true,
+            "poisonous_to_humans": 0,
+            "poisonous_to_pets": 0,
+            "description": "Cilantro (Coriandrum sativum) is an amazing herb with many uses and benefits. Not only is it a popular ingredient in a variety of cuisines - from Thai to Mexican to Middle Eastern - but it is also used in medicine for centuries. Cilantro contains high levels of calcium, magnesium, potassium, zinc, copper and iron, making it a nutrient-rich addition to your diet. It also contains compounds that act as a natural pesticide, helping to repel insects. In addition to helping to ward off pests, cilantro is also believed to have antioxidant, anti-inflammatory and antimicrobial properties that help to protect against a wide range of health conditions. All in all, cilantro is an amazing herb that has a range of delicious uses.",
+            "default_image": {
+                "license": 4,
+                "license_name": "Attribution License",
+                "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                "original_url": "https://perenual.com/storage/species_image/2098_coriandrum_sativum/og/23933935237_ac36e334a3_b.jpg",
+                "regular_url": "https://perenual.com/storage/species_image/2098_coriandrum_sativum/regular/23933935237_ac36e334a3_b.jpg",
+                "medium_url": "https://perenual.com/storage/species_image/2098_coriandrum_sativum/medium/23933935237_ac36e334a3_b.jpg",
+                "small_url": "https://perenual.com/storage/species_image/2098_coriandrum_sativum/small/23933935237_ac36e334a3_b.jpg",
+                "thumbnail": "https://perenual.com/storage/species_image/2098_coriandrum_sativum/thumbnail/23933935237_ac36e334a3_b.jpg"
+            },
+            "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+        },
+        {
+            "id": 834,
+            "common_name": "dill",
+            "scientific_name": [
+                "Anethum graveolens"
+            ],
+            "other_name": [],
+            "family": "Apiaceae",
+            "origin": [
+                "Northern Africa",
+                "Arabian Peninsula"
+            ],
+            "type": "Herb",
+            "dimension": "3.00 to 5.00 feet",
+            "dimensions": {
+                "type": null,
+                "min_value": 3,
+                "max_value": 5,
+                "unit": "feet"
+            },
+            "cycle": "Annual",
+            "attracts": [],
+            "propagation": [
+                "Seed Propagation"
+            ],
+            "hardiness": {
+                "min": "2",
+                "max": "11"
+            },
+            "hardiness_location": {
+                "full_url": "https://perenual.com/api/hardiness-map?species_id=834&size=og&key=sk-7FOR65e3bfc4a0fb34435",
+                "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=834&size=og&key=sk-7FOR65e3bfc4a0fb34435'></iframe>"
+            },
+            "watering": "Average",
+            "depth_water_requirement": [],
+            "volume_water_requirement": [],
+            "watering_period": null,
+            "watering_general_benchmark": {
+                "value": "3-4",
+                "unit": "days"
+            },
+            "plant_anatomy": [
+                {
+                    "part": "stalks",
+                    "color": [
+                        "yellow-green"
+                    ]
+                },
+                {
+                    "part": "flowers",
+                    "color": [
+                        "yellow"
+                    ]
+                },
+                {
+                    "part": "foliage",
+                    "color": [
+                        "mint-green"
+                    ]
+                },
+                {
+                    "part": "stems",
+                    "color": [
+                        "mint-green"
+                    ]
+                },
+                {
+                    "part": "stem",
+                    "color": [
+                        "green"
+                    ]
+                }
+            ],
+            "sunlight": [
+                "full sun",
+                "part shade"
+            ],
+            "pruning_month": [
+                "December",
+                "January",
+                "February"
+            ],
+            "pruning_count": [],
+            "seeds": 1,
+            "maintenance": "Low",
+            "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=834&key=sk-7FOR65e3bfc4a0fb34435",
+            "soil": [
+                "Humus rich",
+                " Well-drained"
+            ],
+            "growth_rate": "High",
+            "drought_tolerant": true,
+            "salt_tolerant": true,
+            "thorny": false,
+            "invasive": false,
+            "tropical": false,
+            "indoor": false,
+            "care_level": null,
+            "pest_susceptibility": [
+                "Fungal leaf spot",
+                " Root rot",
+                "  Drought resistant "
+            ],
+            "pest_susceptibility_api": "Coming Soon",
+            "flowers": true,
+            "flowering_season": null,
+            "flower_color": "Yellow",
+            "cones": false,
+            "fruits": true,
+            "edible_fruit": false,
+            "edible_fruit_taste_profile": "Coming Soon",
+            "fruit_nutritional_value": "Coming Soon",
+            "fruit_color": [],
+            "harvest_season": "Summer",
+            "leaf": true,
+            "leaf_color": [
+                "green"
+            ],
+            "edible_leaf": true,
+            "cuisine": true,
+            "medicinal": true,
+            "poisonous_to_humans": 0,
+            "poisonous_to_pets": 0,
+            "description": "Dill (Anethum graveolens) is an amazing herb. Its fern-like leaves are pleasant to look at and its flavour adds a delicious hint of aniseed to dishes. It is incredibly versatile and can be used in any savoury recipe, like soups, stews, salad dressings and sauces. The smell of dill is also amazing, due to its fragrant compounds, making it an ideal herb for aromatherapy. Furthermore, dill has many health benefits, as it is high in vitamin A, C, and K, minerals, and fiber. Dill has revealed to be an effective remedy against inflammations and cancer cells growth, making it an essential ingredient to have in the kitchen or garden.",
+            "default_image": {
+                "license": 4,
+                "license_name": "Attribution License",
+                "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                "original_url": "https://perenual.com/storage/species_image/834_anethum_graveolens/og/52142605681_267b587549_b.jpg",
+                "regular_url": "https://perenual.com/storage/species_image/834_anethum_graveolens/regular/52142605681_267b587549_b.jpg",
+                "medium_url": "https://perenual.com/storage/species_image/834_anethum_graveolens/medium/52142605681_267b587549_b.jpg",
+                "small_url": "https://perenual.com/storage/species_image/834_anethum_graveolens/small/52142605681_267b587549_b.jpg",
+                "thumbnail": "https://perenual.com/storage/species_image/834_anethum_graveolens/thumbnail/52142605681_267b587549_b.jpg"
+            },
+            "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+        },
+        {
+            "id": 2254,
+            "common_name": "winter squash",
+            "scientific_name": [
+                "Cucurbita moschata"
+            ],
+            "other_name": [],
+            "family": "Cucurbitaceae",
+            "origin": [
+                "Central and South America"
+            ],
+            "type": "Fruit",
+            "dimension": "0.75 to 1.50 feet",
+            "dimensions": {
+                "type": null,
+                "min_value": 0.75,
+                "max_value": 1.5,
+                "unit": "feet"
+            },
+            "cycle": "Annual",
+            "attracts": [],
+            "propagation": [
+                "Seed Propagation",
+                "Cutting",
+                "Grafting Propagation",
+                "Layering Propagation",
+                "Division"
+            ],
+            "hardiness": {
+                "min": "2",
+                "max": "11"
+            },
+            "hardiness_location": {
+                "full_url": "https://perenual.com/api/hardiness-map?species_id=2254&size=og&key=sk-7FOR65e3bfc4a0fb34435",
+                "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2254&size=og&key=sk-7FOR65e3bfc4a0fb34435'></iframe>"
+            },
+            "watering": "Average",
+            "depth_water_requirement": {
+                "unit": "",
+                "value": ""
+            },
+            "volume_water_requirement": [],
+            "watering_period": null,
+            "watering_general_benchmark": {
+                "value": null,
+                "unit": "days"
+            },
+            "plant_anatomy": [
+                {
+                    "part": "fruit",
+                    "color": [
+                        "yellow",
+                        "pale-yellow"
+                    ]
+                },
+                {
+                    "part": "leaf",
+                    "color": [
+                        "dark-green"
+                    ]
+                },
+                {
+                    "part": "veins",
+                    "color": [
+                        "light-green",
+                        "green"
+                    ]
+                },
+                {
+                    "part": "midribs",
+                    "color": [
+                        "light-green"
+                    ]
+                },
+                {
+                    "part": "stem",
+                    "color": [
+                        "green"
+                    ]
+                },
+                {
+                    "part": "leaves",
+                    "color": [
+                        "yellow-green",
+                        "dark-green",
+                        "green"
+                    ]
+                },
+                {
+                    "part": "stems",
+                    "color": [
+                        "lime-green",
+                        "green"
+                    ]
+                },
+                {
+                    "part": "flower",
+                    "color": [
+                        "yellow-orange",
+                        "yellow"
+                    ]
+                },
+                {
+                    "part": "sepals",
+                    "color": [
+                        "lime-green"
+                    ]
+                },
+                {
+                    "part": "petioles",
+                    "color": [
+                        "lime-green"
+                    ]
+                },
+                {
+                    "part": "stamens",
+                    "color": [
+                        "orange"
+                    ]
+                }
+            ],
+            "sunlight": [
+                "full sun"
+            ],
+            "pruning_month": [
+                "December",
+                "January",
+                "February",
+                "June",
+                "July",
+                "December",
+                "January",
+                "February"
+            ],
+            "pruning_count": [],
+            "seeds": 1,
+            "maintenance": "Moderate",
+            "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2254&key=sk-7FOR65e3bfc4a0fb34435",
+            "soil": [],
+            "growth_rate": "Low",
+            "drought_tolerant": false,
+            "salt_tolerant": true,
+            "thorny": false,
+            "invasive": false,
+            "tropical": false,
+            "indoor": false,
+            "care_level": "Medium",
+            "pest_susceptibility": [],
+            "pest_susceptibility_api": "Coming Soon",
+            "flowers": true,
+            "flowering_season": null,
+            "flower_color": "Creamy white to orange-yellow",
+            "cones": false,
+            "fruits": true,
+            "edible_fruit": true,
+            "edible_fruit_taste_profile": "Coming Soon",
+            "fruit_nutritional_value": "Coming Soon",
+            "fruit_color": [
+                "green",
+                "yellow",
+                "orange",
+                "gray",
+                "white",
+                "gray"
+            ],
+            "harvest_season": "Fall",
+            "leaf": true,
+            "leaf_color": [
+                "green"
+            ],
+            "edible_leaf": true,
+            "cuisine": true,
+            "medicinal": true,
+            "poisonous_to_humans": 0,
+            "poisonous_to_pets": 0,
+            "description": "Winter squash, also known as Cucurbita moschata, is an amazing plant species that is perfect for winter recipes. It is an incredibly versatile vegetable that can provide a range of rich, earthy flavors. It is also very nutritious, providing many essential vitamins and minerals. This squash is easy to store, making it an ideal choice for winter dishes. What’s more, it can last a long time in storage because of its tough skin. Winter squash is incredibly versatile and can be used in a variety of ways, from purees and soups to baked, steamed, or roasted dishes. Plus, its sweet flavor is a great complement to savory recipes like chili and casseroles. Winter squash is truly a great addition to the winter pantry.",
+            "default_image": {
+                "license": 4,
+                "license_name": "Attribution License",
+                "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                "original_url": "https://perenual.com/storage/species_image/2254_cucurbita_moschata/og/24859608269_b96f74bc60_b.jpg",
+                "regular_url": "https://perenual.com/storage/species_image/2254_cucurbita_moschata/regular/24859608269_b96f74bc60_b.jpg",
+                "medium_url": "https://perenual.com/storage/species_image/2254_cucurbita_moschata/medium/24859608269_b96f74bc60_b.jpg",
+                "small_url": "https://perenual.com/storage/species_image/2254_cucurbita_moschata/small/24859608269_b96f74bc60_b.jpg",
+                "thumbnail": "https://perenual.com/storage/species_image/2254_cucurbita_moschata/thumbnail/24859608269_b96f74bc60_b.jpg"
+            },
+            "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+        },
+        {
+            "id": 1885,
+            "common_name": "watermelon",
+            "scientific_name": [
+                "Citrullus lanatus"
+            ],
+            "other_name": [],
+            "family": "Cucurbitaceae",
+            "origin": [
+                "Namibia"
+            ],
+            "type": "Fruit",
+            "dimension": "0.75 to 1.50 feet",
+            "dimensions": {
+                "type": null,
+                "min_value": 0.75,
+                "max_value": 1.5,
+                "unit": "feet"
+            },
+            "cycle": "Annual",
+            "attracts": [],
+            "propagation": [
+                "Seed Propagation"
+            ],
+            "hardiness": {
+                "min": "2",
+                "max": "11"
+            },
+            "hardiness_location": {
+                "full_url": "https://perenual.com/api/hardiness-map?species_id=1885&size=og&key=sk-7FOR65e3bfc4a0fb34435",
+                "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1885&size=og&key=sk-7FOR65e3bfc4a0fb34435'></iframe>"
+            },
+            "watering": "Average",
+            "depth_water_requirement": {
+                "unit": "inches",
+                "value": "2"
+            },
+            "volume_water_requirement": {
+                "unit": "gallons",
+                "value": "3"
+            },
+            "watering_period": null,
+            "watering_general_benchmark": {
+                "value": "3-4",
+                "unit": "days"
+            },
+            "plant_anatomy": [
+                {
+                    "part": "fruits",
+                    "color": [
+                        "green-yellow"
+                    ]
+                },
+                {
+                    "part": "leaves",
+                    "color": [
+                        "green",
+                        "lush-green"
+                    ]
+                },
+                {
+                    "part": "veins",
+                    "color": [
+                        "green"
+                    ]
+                },
+                {
+                    "part": "midribs",
+                    "color": [
+                        "green"
+                    ]
+                },
+                {
+                    "part": "stems",
+                    "color": [
+                        "light-green"
+                    ]
+                },
+                {
+                    "part": "fruit",
+                    "color": [
+                        "green-yellow"
+                    ]
+                }
+            ],
+            "sunlight": [
+                "full sun"
+            ],
+            "pruning_month": [
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "June",
+                "July",
+                "August"
+            ],
+            "pruning_count": [],
+            "seeds": 1,
+            "maintenance": "Moderate",
+            "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=1885&key=sk-7FOR65e3bfc4a0fb34435",
+            "soil": [
+                "Well-drained"
+            ],
+            "growth_rate": "High",
+            "drought_tolerant": true,
+            "salt_tolerant": true,
+            "thorny": false,
+            "invasive": false,
+            "tropical": false,
+            "indoor": false,
+            "care_level": "Medium",
+            "pest_susceptibility": [],
+            "pest_susceptibility_api": "Coming Soon",
+            "flowers": true,
+            "flowering_season": null,
+            "flower_color": "Pale green",
+            "cones": false,
+            "fruits": true,
+            "edible_fruit": true,
+            "edible_fruit_taste_profile": "Coming Soon",
+            "fruit_nutritional_value": "Coming Soon",
+            "fruit_color": [
+                "green",
+                "red",
+                "yellow",
+                "orange",
+                "pink"
+            ],
+            "harvest_season": "Summer",
+            "leaf": true,
+            "leaf_color": [],
+            "edible_leaf": false,
+            "cuisine": true,
+            "medicinal": true,
+            "poisonous_to_humans": 0,
+            "poisonous_to_pets": 0,
+            "description": "The watermelon (Citrullus lanatus) is an amazing plant species due to its diverse uses, and delicious taste. This member of the Cucurbitaceae family is packed with nutrients, vitamins and minerals, making it a nutritious and enjoyable snack. It is also used in various culinary dishes, from salads to smoothies. It’s vibrant rind and bright, juicy flesh make it an attractive and refreshing summer snack. Watermelons are also very easy to grow and maintain, making it an ideal fruit for the home gardener. All in all, the watermelon is an amazing plant with a variety of uses and a great taste that anyone can enjoy.",
+            "default_image": {
+                "license": 4,
+                "license_name": "Attribution License",
+                "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                "original_url": "https://perenual.com/storage/species_image/1885_citrullus_lanatus/og/24563439383_073cc7d9dd_b.jpg",
+                "regular_url": "https://perenual.com/storage/species_image/1885_citrullus_lanatus/regular/24563439383_073cc7d9dd_b.jpg",
+                "medium_url": "https://perenual.com/storage/species_image/1885_citrullus_lanatus/medium/24563439383_073cc7d9dd_b.jpg",
+                "small_url": "https://perenual.com/storage/species_image/1885_citrullus_lanatus/small/24563439383_073cc7d9dd_b.jpg",
+                "thumbnail": "https://perenual.com/storage/species_image/1885_citrullus_lanatus/thumbnail/24563439383_073cc7d9dd_b.jpg"
+            },
+            "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+        },
+        {
+            "id": 1327,
+            "common_name": "broccoli",
+            "scientific_name": [
+                "Brassica oleracea (Italica Group)"
+            ],
+            "other_name": [],
+            "family": "Brassicaceae",
+            "origin": [
+                "Italy",
+                "Mediterranean region",
+                "Asia Minor",
+                "Middle East"
+            ],
+            "type": "Vegetable",
+            "dimension": "1.00 to 1.50 feet",
+            "dimensions": {
+                "type": null,
+                "min_value": 1,
+                "max_value": 1.5,
+                "unit": "feet"
+            },
+            "cycle": "Annual",
+            "attracts": [],
+            "propagation": [
+                "Seed Propagation",
+                "Cutting",
+                "Division",
+                "Layering Propagation",
+                "Grafting Propagation"
+            ],
+            "hardiness": {
+                "min": "2",
+                "max": "11"
+            },
+            "hardiness_location": {
+                "full_url": "https://perenual.com/api/hardiness-map?species_id=1327&size=og&key=sk-7FOR65e3bfc4a0fb34435",
+                "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1327&size=og&key=sk-7FOR65e3bfc4a0fb34435'></iframe>"
+            },
+            "watering": "Average",
+            "depth_water_requirement": {
+                "unit": "inches",
+                "value": "2"
+            },
+            "volume_water_requirement": [],
+            "watering_period": null,
+            "watering_general_benchmark": {
+                "value": "2-3",
+                "unit": "days"
+            },
+            "plant_anatomy": [
+                {
+                    "part": "buds",
+                    "color": [
+                        "green-purple"
+                    ]
+                },
+                {
+                    "part": "leaves",
+                    "color": [
+                        "green"
+                    ]
+                }
+            ],
+            "sunlight": [
+                "full sun"
+            ],
+            "pruning_month": null,
+            "pruning_count": [],
+            "seeds": 1,
+            "maintenance": "Low",
+            "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=1327&key=sk-7FOR65e3bfc4a0fb34435",
+            "soil": [],
+            "growth_rate": "Low",
+            "drought_tolerant": true,
+            "salt_tolerant": false,
+            "thorny": false,
+            "invasive": false,
+            "tropical": false,
+            "indoor": false,
+            "care_level": "Medium",
+            "pest_susceptibility": [],
+            "pest_susceptibility_api": "Coming Soon",
+            "flowers": true,
+            "flowering_season": null,
+            "flower_color": "Rarely flowers",
+            "cones": false,
+            "fruits": true,
+            "edible_fruit": true,
+            "edible_fruit_taste_profile": "Coming Soon",
+            "fruit_nutritional_value": "Coming Soon",
+            "fruit_color": [
+                "green",
+                "purple",
+                "white"
+            ],
+            "harvest_season": null,
+            "leaf": true,
+            "leaf_color": [
+                "green",
+                "purple"
+            ],
+            "edible_leaf": true,
+            "cuisine": true,
+            "medicinal": true,
+            "poisonous_to_humans": 0,
+            "poisonous_to_pets": 0,
+            "description": "Broccoli is a nutritionally dense superfood, packed with essential vitamins and minerals. It is a member of the Brassica oleracea family (Italica Group), which also includes cabbage, cauliflower, and kale. It is full of essential nutrients, providing a variety of health benefits, such as promoting healthy digestion and building immunity. Broccoli is also an excellent source of antioxidants, which help to neutralize free radicals in the body and protect cells from damage. Broccoli also contains essential fiber and phytochemicals, which help to reduce inflammation and promote healthy cells. With all these incredible benefits, broccoli is truly an amazing vegetable that everyone should include in their diet.",
+            "default_image": {
+                "license": 6,
+                "license_name": "Attribution-NoDerivs License",
+                "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+                "original_url": "https://perenual.com/storage/species_image/1327_brassica_oleracea_italica_group/og/1558498515_51e566c692_b.jpg"
+            },
+            "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+        },
+        {
+            "id": 2255,
+            "common_name": "summer squash",
+            "scientific_name": [
+                "Cucurbita pepo"
+            ],
+            "other_name": [
+                "zucchini"
+            ],
+            "family": "Cucurbitaceae",
+            "origin": [
+                "Mexico"
+            ],
+            "type": "Fruit",
+            "dimension": "1.00 to 2.50 feet",
+            "dimensions": {
+                "type": null,
+                "min_value": 1,
+                "max_value": 2.5,
+                "unit": "feet"
+            },
+            "cycle": "Annual",
+            "attracts": [],
+            "propagation": [
+                "Seed Propagation",
+                "Cutting",
+                "Layering Propagation",
+                "Grafting Propagation"
+            ],
+            "hardiness": {
+                "min": "2",
+                "max": "11"
+            },
+            "hardiness_location": {
+                "full_url": "https://perenual.com/api/hardiness-map?species_id=2255&size=og&key=sk-7FOR65e3bfc4a0fb34435",
+                "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2255&size=og&key=sk-7FOR65e3bfc4a0fb34435'></iframe>"
+            },
+            "watering": "Average",
+            "depth_water_requirement": [],
+            "volume_water_requirement": [],
+            "watering_period": "morning",
+            "watering_general_benchmark": {
+                "value": "3-4",
+                "unit": "days"
+            },
+            "plant_anatomy": [
+                {
+                    "part": "fruit",
+                    "color": [
+                        "green-yellow",
+                        "pale-yellow",
+                        "bright-yellow"
+                    ]
+                },
+                {
+                    "part": "leaves",
+                    "color": [
+                        "green-yellow",
+                        "green",
+                        "dark-green"
+                    ]
+                },
+                {
+                    "part": "veins",
+                    "color": [
+                        "light-green"
+                    ]
+                },
+                {
+                    "part": "stems",
+                    "color": [
+                        "light-green",
+                        "green"
+                    ]
+                },
+                {
+                    "part": "petiole",
+                    "color": [
+                        "yellow-white"
+                    ]
+                },
+                {
+                    "part": "midribs",
+                    "color": [
+                        "light-green"
+                    ]
+                },
+                {
+                    "part": "flower",
+                    "color": [
+                        "yellow-green",
+                        "yellow"
+                    ]
+                },
+                {
+                    "part": "stem",
+                    "color": [
+                        "green"
+                    ]
+                },
+                {
+                    "part": "center",
+                    "color": [
+                        "yellow"
+                    ]
+                },
+                {
+                    "part": "sepals",
+                    "color": [
+                        "green"
+                    ]
+                },
+                {
+                    "part": "fruits",
+                    "color": [
+                        "pale-yellow"
+                    ]
+                },
+                {
+                    "part": "petioles",
+                    "color": [
+                        "green"
+                    ]
+                }
+            ],
+            "sunlight": [
+                "full sun"
+            ],
+            "pruning_month": [
+                "June",
+                "July",
+                "August",
+                "June",
+                "July",
+                "August",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September"
+            ],
+            "pruning_count": [],
+            "seeds": 1,
+            "maintenance": "High",
+            "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2255&key=sk-7FOR65e3bfc4a0fb34435",
+            "soil": [
+                "Well-drained"
+            ],
+            "growth_rate": "High",
+            "drought_tolerant": false,
+            "salt_tolerant": false,
+            "thorny": false,
+            "invasive": false,
+            "tropical": false,
+            "indoor": false,
+            "care_level": "Medium",
+            "pest_susceptibility": [
+                "Mold",
+                " Rodents",
+                " Slugs",
+                "snails",
+                "  Rabbit resistant "
+            ],
+            "pest_susceptibility_api": "Coming Soon",
+            "flowers": true,
+            "flowering_season": null,
+            "flower_color": "Yellow",
+            "cones": false,
+            "fruits": true,
+            "edible_fruit": true,
+            "edible_fruit_taste_profile": "Coming Soon",
+            "fruit_nutritional_value": "Coming Soon",
+            "fruit_color": [
+                "green",
+                "yellow",
+                "orange",
+                "gray",
+                "white",
+                "gray"
+            ],
+            "harvest_season": "Fall",
+            "leaf": true,
+            "leaf_color": [
+                "green"
+            ],
+            "edible_leaf": true,
+            "cuisine": true,
+            "medicinal": true,
+            "poisonous_to_humans": 0,
+            "poisonous_to_pets": 0,
+            "description": "Summer squash (Cucurbita pepo) is amazing because it's both delicious and nutritious! Low in calories but high in fiber and many vitamins and minerals, this squash is a great way to get in your daily servings of vegetables. This warm season crop is also easy to grow, requiring very little maintenance once established. Its vibrant yellow and green colors can brighten up any plate. It can also be eaten fresh, grilled, baked, or boiled. Plus, its leaves, flowers, immature fruits, and seeds are all edible. Summer squash is definitely a must-have for your garden!",
+            "default_image": {
+                "license": 4,
+                "license_name": "Attribution License",
+                "license_url": "https://creativecommons.org/licenses/by/2.0/",
+                "original_url": "https://perenual.com/storage/species_image/2255_cucurbita_pepo/og/30834361358_ce4119cf89_b.jpg",
+                "regular_url": "https://perenual.com/storage/species_image/2255_cucurbita_pepo/regular/30834361358_ce4119cf89_b.jpg",
+                "medium_url": "https://perenual.com/storage/species_image/2255_cucurbita_pepo/medium/30834361358_ce4119cf89_b.jpg",
+                "small_url": "https://perenual.com/storage/species_image/2255_cucurbita_pepo/small/30834361358_ce4119cf89_b.jpg",
+                "thumbnail": "https://perenual.com/storage/species_image/2255_cucurbita_pepo/thumbnail/30834361358_ce4119cf89_b.jpg"
+            },
+            "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+        },
+        {
+            "id": 1602,
+            "common_name": "sweet bell pepper",
+            "scientific_name": [
+                "Capsicum annuum 'Park's Early Thickset'"
+            ],
+            "other_name": [],
+            "family": "Solanaceae",
+            "origin": [
+                "United States"
+            ],
+            "type": "Fruit",
+            "dimension": "1.50 to 2.00 feet",
+            "dimensions": {
+                "type": null,
+                "min_value": 1.5,
+                "max_value": 2,
+                "unit": "feet"
+            },
+            "cycle": "Herbaceous Perennial",
+            "attracts": [],
+            "propagation": [
+                "Seed Propagation",
+                "Cutting",
+                "Layering Propagation",
+                "Grafting Propagation"
+            ],
+            "hardiness": {
+                "min": "9",
+                "max": "11"
+            },
+            "hardiness_location": {
+                "full_url": "https://perenual.com/api/hardiness-map?species_id=1602&size=og&key=sk-7FOR65e3bfc4a0fb34435",
+                "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1602&size=og&key=sk-7FOR65e3bfc4a0fb34435'></iframe>"
+            },
+            "watering": "Average",
+            "depth_water_requirement": {
+                "unit": "inches",
+                "value": "2"
+            },
+            "volume_water_requirement": [],
+            "watering_period": "morning",
+            "watering_general_benchmark": {
+                "value": null,
+                "unit": "days"
+            },
+            "plant_anatomy": [],
+            "sunlight": [
+                "Full sun"
+            ],
+            "pruning_month": null,
+            "pruning_count": {
+                "amount": 1,
+                "interval": "yearly"
+            },
+            "seeds": 1,
+            "maintenance": "Low",
+            "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=1602&key=sk-7FOR65e3bfc4a0fb34435",
+            "soil": [],
+            "growth_rate": "Low",
+            "drought_tolerant": false,
+            "salt_tolerant": false,
+            "thorny": false,
+            "invasive": false,
+            "tropical": false,
+            "indoor": false,
+            "care_level": null,
+            "pest_susceptibility": [],
+            "pest_susceptibility_api": "Coming Soon",
+            "flowers": true,
+            "flowering_season": null,
+            "flower_color": "White",
+            "cones": false,
+            "fruits": true,
+            "edible_fruit": true,
+            "edible_fruit_taste_profile": "Coming Soon",
+            "fruit_nutritional_value": "Coming Soon",
+            "fruit_color": [
+                "green",
+                "red",
+                "yellow",
+                "orange"
+            ],
+            "harvest_season": "Summer",
+            "leaf": true,
+            "leaf_color": [
+                "green"
+            ],
+            "edible_leaf": true,
+            "cuisine": true,
+            "medicinal": false,
+            "poisonous_to_humans": 0,
+            "poisonous_to_pets": 0,
+            "description": "The sweet bell pepper (Capsicum annuum 'Park's Early Thickset') is an amazing plant species that not only looks great in the garden, but also tastes amazing! It produces many large, sweet and juicy peppers in a variety of colors, from yellow, orange and red. Its thick stem and broad leaves are a perfect addition to any garden. It is also extremely easy to grow and can tolerate hot and cool weather, making it a great addition in any climate. Best of all, the sweet bell pepper is one of the most nutritious vegetables available, packed with Vitamin C and antioxidants!",
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/species_image/1602_capsicum_annuum_parks_early_thickset/og/bell-pepper-plant-pepper-shrub-paprika-pepper-harvest.jpg",
+                "regular_url": "https://perenual.com/storage/species_image/1602_capsicum_annuum_parks_early_thickset/regular/bell-pepper-plant-pepper-shrub-paprika-pepper-harvest.jpg",
+                "medium_url": "https://perenual.com/storage/species_image/1602_capsicum_annuum_parks_early_thickset/medium/bell-pepper-plant-pepper-shrub-paprika-pepper-harvest.jpg",
+                "small_url": "https://perenual.com/storage/species_image/1602_capsicum_annuum_parks_early_thickset/small/bell-pepper-plant-pepper-shrub-paprika-pepper-harvest.jpg",
+                "thumbnail": "https://perenual.com/storage/species_image/1602_capsicum_annuum_parks_early_thickset/thumbnail/bell-pepper-plant-pepper-shrub-paprika-pepper-harvest.jpg"
+            },
+            "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+        },
+        {
+            "id": 1320,
+            "common_name": "kale",
+            "scientific_name": [
+                "Brassica oleracea (Acephala Group) 'Redbor'"
+            ],
+            "other_name": [],
+            "family": "Brassicaceae",
+            "origin": [
+                "United Kingdom"
+            ],
+            "type": "Vegetable",
+            "dimension": "1.00 to 1.50 feet",
+            "dimensions": {
+                "type": null,
+                "min_value": 1,
+                "max_value": 1.5,
+                "unit": "feet"
+            },
+            "cycle": "Annual",
+            "attracts": [],
+            "propagation": [
+                "Seed Propagation",
+                "Cutting",
+                "Division",
+                "Layering Propagation"
+            ],
+            "hardiness": {
+                "min": "2",
+                "max": "11"
+            },
+            "hardiness_location": {
+                "full_url": "https://perenual.com/api/hardiness-map?species_id=1320&size=og&key=sk-7FOR65e3bfc4a0fb34435",
+                "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=1320&size=og&key=sk-7FOR65e3bfc4a0fb34435'></iframe>"
+            },
+            "watering": "Average",
+            "depth_water_requirement": [],
+            "volume_water_requirement": [],
+            "watering_period": null,
+            "watering_general_benchmark": {
+                "value": "3-4",
+                "unit": "days"
+            },
+            "plant_anatomy": [],
+            "sunlight": [
+                "full sun",
+                "part shade"
+            ],
+            "pruning_month": [
+                "May"
+            ],
+            "pruning_count": [],
+            "seeds": 1,
+            "maintenance": "Low",
+            "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=1320&key=sk-7FOR65e3bfc4a0fb34435",
+            "soil": [],
+            "growth_rate": "Low",
+            "drought_tolerant": true,
+            "salt_tolerant": true,
+            "thorny": false,
+            "invasive": false,
+            "tropical": false,
+            "indoor": false,
+            "care_level": "Medium",
+            "pest_susceptibility": [],
+            "pest_susceptibility_api": "Coming Soon",
+            "flowers": true,
+            "flowering_season": null,
+            "flower_color": "Rarely flowers",
+            "cones": false,
+            "fruits": true,
+            "edible_fruit": true,
+            "edible_fruit_taste_profile": "Coming Soon",
+            "fruit_nutritional_value": "Coming Soon",
+            "fruit_color": [
+                "red",
+                "purple"
+            ],
+            "harvest_season": "Fall",
+            "leaf": true,
+            "leaf_color": [
+                "red",
+                "purple"
+            ],
+            "edible_leaf": true,
+            "cuisine": true,
+            "medicinal": true,
+            "poisonous_to_humans": 0,
+            "poisonous_to_pets": 0,
+            "description": "Kale is a proud member of the Brassica oleracea family, nicknamed \"the Acephala Group\" and known for its dark, reddish-purple leaves and thick, crunchy stalks. It's an amazing, nutritional powerhouse vegetable, packed with vitamins A, C, and K, along with a good dose of calcium, iron, and other essential minerals. Kale also contains powerful antioxidant properties, and studies have shown it can be beneficial for cardiovascular health. With its crunchy texture and deep flavor, it can easily be added to soups, salads, and stir-fries for a nutrient-rich meal. Kale's adaptability and nutritional benefits make it an amazing plant species we all should be consuming.",
+            "default_image": {
+                "license": 451,
+                "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+                "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "original_url": "https://perenual.com/storage/species_image/1320_brassica_oleracea_acephala_group_redbor/og/kohl-kale-red-green-cabbage-redbor.jpg",
+                "regular_url": "https://perenual.com/storage/species_image/1320_brassica_oleracea_acephala_group_redbor/regular/kohl-kale-red-green-cabbage-redbor.jpg",
+                "medium_url": "https://perenual.com/storage/species_image/1320_brassica_oleracea_acephala_group_redbor/medium/kohl-kale-red-green-cabbage-redbor.jpg",
+                "small_url": "https://perenual.com/storage/species_image/1320_brassica_oleracea_acephala_group_redbor/small/kohl-kale-red-green-cabbage-redbor.jpg",
+                "thumbnail": "https://perenual.com/storage/species_image/1320_brassica_oleracea_acephala_group_redbor/thumbnail/kohl-kale-red-green-cabbage-redbor.jpg"
+            },
+            "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+        },
+        {
+            "id": 2795,
+            "common_name": "arugula",
+            "scientific_name": [
+                "Eruca versicaria subsp. sativa"
+            ],
+            "other_name": [],
+            "family": "Brassicaceae",
+            "origin": [
+                "Europe"
+            ],
+            "type": "Herb",
+            "dimension": "2.00 to 3.00 feet",
+            "dimensions": {
+                "type": null,
+                "min_value": 2,
+                "max_value": 3,
+                "unit": "feet"
+            },
+            "cycle": "Annual",
+            "attracts": [],
+            "propagation": [
+                "Seed Propagation",
+                "Cutting",
+                "Division",
+                "Layering Propagation"
+            ],
+            "hardiness": {
+                "min": "2",
+                "max": "11"
+            },
+            "hardiness_location": {
+                "full_url": "https://perenual.com/api/hardiness-map?species_id=2795&size=og&key=sk-7FOR65e3bfc4a0fb34435",
+                "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=2795&size=og&key=sk-7FOR65e3bfc4a0fb34435'></iframe>"
+            },
+            "watering": "Frequent",
+            "depth_water_requirement": [],
+            "volume_water_requirement": [],
+            "watering_period": null,
+            "watering_general_benchmark": {
+                "value": "2-3",
+                "unit": "days"
+            },
+            "plant_anatomy": [
+                {
+                    "part": "flowers",
+                    "color": [
+                        "white"
+                    ]
+                },
+                {
+                    "part": "stamens",
+                    "color": [
+                        "yellow-green"
+                    ]
+                },
+                {
+                    "part": "leaves",
+                    "color": [
+                        "green"
+                    ]
+                },
+                {
+                    "part": "stems",
+                    "color": [
+                        "dark-green"
+                    ]
+                }
+            ],
+            "sunlight": [
+                "Full sun"
+            ],
+            "pruning_month": null,
+            "pruning_count": {
+                "amount": 1,
+                "interval": "yearly"
+            },
+            "seeds": 0,
+            "maintenance": "Moderate",
+            "care-guides": "http://perenual.com/api/species-care-guide-list?species_id=2795&key=sk-7FOR65e3bfc4a0fb34435",
+            "soil": [],
+            "growth_rate": "High",
+            "drought_tolerant": false,
+            "salt_tolerant": true,
+            "thorny": false,
+            "invasive": false,
+            "tropical": false,
+            "indoor": false,
+            "care_level": null,
+            "pest_susceptibility": [],
+            "pest_susceptibility_api": "Coming Soon",
+            "flowers": true,
+            "flowering_season": null,
+            "flower_color": "",
+            "cones": false,
+            "fruits": false,
+            "edible_fruit": false,
+            "edible_fruit_taste_profile": "Coming Soon",
+            "fruit_nutritional_value": "Coming Soon",
+            "fruit_color": [],
+            "harvest_season": null,
+            "leaf": true,
+            "leaf_color": [
+                "green"
+            ],
+            "edible_leaf": true,
+            "cuisine": true,
+            "medicinal": true,
+            "poisonous_to_humans": 0,
+            "poisonous_to_pets": 0,
+            "description": "Arugula, also known as rocket or rucola, is an amazing plant species with a particular nutty and spicy flavor. Rich in vitamins A and C, iron, and calcium, arugula is an excellent source of nutrition that helps to support a strong immune system. Its leaves have a unique texture that pairs well with salads, sandwiches, pizza, and pasta. Arugula is a cool-weather plant, so it's best to sow the seeds early in spring or late in the summer. Arugula is also low in calories and high in antioxidants, providing a welcome addition to any healthy diet. With its unique taste and texture, arugula is guaranteed to add something special to your meals.",
+            "default_image": {
+                "license": 45,
+                "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                "original_url": "https://perenual.com/storage/species_image/2795_eruca_versicaria_subsp_sativa/og/Eruca_April_2010-1.jpg",
+                "regular_url": "https://perenual.com/storage/species_image/2795_eruca_versicaria_subsp_sativa/regular/Eruca_April_2010-1.jpg",
+                "medium_url": "https://perenual.com/storage/species_image/2795_eruca_versicaria_subsp_sativa/medium/Eruca_April_2010-1.jpg",
+                "small_url": "https://perenual.com/storage/species_image/2795_eruca_versicaria_subsp_sativa/small/Eruca_April_2010-1.jpg",
+                "thumbnail": "https://perenual.com/storage/species_image/2795_eruca_versicaria_subsp_sativa/thumbnail/Eruca_April_2010-1.jpg"
+            },
+            "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+        }
+    ]
+}
